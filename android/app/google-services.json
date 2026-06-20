@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "815656151166",
+    "project_id": "shopflow-42d85",
+    "storage_bucket": "shopflow-42d85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815656151166:android:8cb6ea997a2db02f00d02f",
+        "android_client_info": {
+          "package_name": "com.example.shopflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0l4QLhpcU0_C5mKmOYZHL9-_8JSMXNF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815656151166:android:9d0392f917092dfa00d02f",
+        "android_client_info": {
+          "package_name": "com.yourname.shopflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0l4QLhpcU0_C5mKmOYZHL9-_8JSMXNF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
