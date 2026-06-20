@@ -98,9 +98,7 @@ flutter run
 
 ---
 
-## 📸 Screenshots
 
-*Add screenshots here before publishing*
 
 ---
 
@@ -110,6 +108,3 @@ This project is open source and available for learning purposes.
 
 ---
 
-## 👨‍💻 Developer
-
-Built as a portfolio project to demonstrate full-stack mobile development skills — from UI/UX design to backend integration and state management.
